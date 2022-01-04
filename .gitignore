@@ -1,2 +1,4 @@
 node_modules
 sessions
+bin/server.cert
+bin/server.key
